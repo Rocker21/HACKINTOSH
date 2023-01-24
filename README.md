@@ -1,0 +1,3 @@
+# HACKINTOSH
+Problems based on hackintosh stuff can be asked here.........
+help me with the RTC error on my efi
